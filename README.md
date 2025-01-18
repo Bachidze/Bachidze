@@ -1,5 +1,27 @@
 # 💫 About Me:
-Giorgi Bachidze | Junior Full Stack Developer<br><br>Hello there! I'm Giorgi Bachidze, a passionate and ambitious 19-year-old Junior Full Stack Developer. I recently completed a comprehensive 10-month module at Re:Educate, honing my skills in both front-end and back-end development.<br><br>Education:<br><br>Re:Educate (10-month module) - Full Stack Development<br>Skills:<br><br>Frontend: HTML, CSS, JavaScript (React)<br>Backend: Node.js, Express<br>Database: MongoDB<br>Version Control: Git, GitHub<br>GitHub Profile:<br>https://github.com/Bachidze<br><br>Projects:<br>During my education, I worked on several projects that allowed me to apply and solidify my knowledge. You can find them on my GitHub profile. Some highlights include [mention a specific project] and [another project].<br><br>Why Me:<br><br>Passionate about creating efficient and user-friendly applications.<br>Quick learner, eager to adapt to new technologies.<br>Strong problem-solving skills and attention to detail.<br>What I'm Looking For:<br>I am actively seeking a Junior Full Stack Developer position where I can contribute my skills and continue learning in a collaborative environment.<br><br>Let's Connect:<br>I'm excited about the opportunity to discuss how my skills can contribute to your team. Feel free to reach out on LinkedIn https://www.linkedin.com/in/giorgi-bachidze-11b68426b/ or via email at bachidze90@gmail.com.<br><br>Thank you for considering my application. I look forward to the possibility of working together!<br><br>Best regards,<br>Giorgi Bachidze
+Giorgi Bachidze | Junior Full Stack Developer
+
+Hi, I'm Giorgi Bachidze, a driven 19-year-old Junior Full Stack Developer skilled in both front-end and back-end development. I recently completed a 10-month module at Re:Educate, mastering modern development tools.
+
+Skills:
+
+Frontend: HTML, CSS/SCSS (ModuleCSS, Styled Components), JavaScript, TypeScript, React, Next.js, MUI, Framer Motion
+Backend: Node.js, Express, Nest.js
+Database: MongoDB
+Version Control: Git, GitHub
+Projects:
+Check out my GitHub here for project highlights showcasing my skills in building user-focused and efficient applications.
+
+Why Me:
+
+Passionate about crafting seamless user experiences.
+Quick learner with a problem-solving mindset.
+Dedicated to growing in a collaborative environment.
+Let’s Connect:
+LinkedIn: Giorgi Bachidze
+Email: bachidze90@gmail.com
+
+Looking forward to contributing to your team!
 
 
 ## 🌐 Socials:
