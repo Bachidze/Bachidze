@@ -1,7 +1,7 @@
 # 💫 About Me:
 Giorgi Bachidze | Junior Full Stack Developer
 
-Hi, I'm Giorgi Bachidze, a driven 19-year-old Junior Full Stack Developer skilled in both front-end and back-end development. I recently completed a 10-month module at Re:Educate, mastering modern development tools.
+Hi, I'm Giorgi Bachidze, a passionate 20-year-old Junior Full Stack Developer with hands-on experience in modern development tools and technologies.
 
 Skills:
 
